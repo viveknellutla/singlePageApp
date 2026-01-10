@@ -1,3 +1,3 @@
 # singlePageApp
 my info
-thia=s is about my personal information
+this is about my personal information
